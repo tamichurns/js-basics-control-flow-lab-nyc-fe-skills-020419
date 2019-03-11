@@ -1,4 +1,4 @@
 function scuberGreetingForFeet(distance) {
-  if (distance  2) {
+  if (distance <= 400) {
     
   }
