@@ -1,6 +1,4 @@
-
-function scuberGreetingForFeet(distance) {
-  if (distance <= 400) {
-  alert("This one's on me!")
-}
+function scuberGreetingForFeet(someValue) {
+  //this is where we can use conditionals given our argument, someValue
+  //don't forget to return whatever the result is!
 }
