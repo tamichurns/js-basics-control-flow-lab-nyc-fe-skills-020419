@@ -4,3 +4,5 @@ function scuberGreetingForFeet(distance) {
     console.log('This one is on me!')
   } 
 }
+
+scuberGreetingForFeet(400)
