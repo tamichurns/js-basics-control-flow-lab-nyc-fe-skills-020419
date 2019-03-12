@@ -5,4 +5,3 @@ function scuberGreetingForFeet(distance) {
   } 
 }
 
-scuberGreetingForFeet(199)
