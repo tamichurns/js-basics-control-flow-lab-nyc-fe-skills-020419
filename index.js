@@ -5,3 +5,8 @@ function scuberGreetingForFeet(distance) {
   } 
 }
 
+function scuberGreetingForFeet(distance) {
+  if (distance >= 2000) {
+    return('This one is on me!')
+  } 
+}
