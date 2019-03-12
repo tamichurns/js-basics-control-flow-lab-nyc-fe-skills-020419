@@ -14,3 +14,7 @@ function ternaryCheckCity(city) {
     return('Ok, sounds good.')
   }
 }
+
+function ternaryCheckCity(city) {
+  
+}
